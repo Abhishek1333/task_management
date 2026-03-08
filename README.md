@@ -25,8 +25,15 @@ Create a .env file from .env.example.
 SECRET_KEY=supersecretkey DATABASE_URL=postgresql://postgres:postgres@db:5432/tasks ACCESS_TOKEN_EXPIRE_MINUTES=60
 
 Run the Project
+
 docker compose up--build
 
-screenshots Screenshot 2026-03-08 122129
 
-Screenshot 2026-03-08 122114 Screenshot 2026-03-08 123231
+screenshots
+<img width="1919" height="805" alt="Screenshot 2026-03-08 122129" src="https://github.com/user-attachments/assets/a101e95b-2621-40ed-a3e8-c05f4ec4dbd7" />
+
+
+<img width="1919" height="857" alt="Screenshot 2026-03-08 122114" src="https://github.com/user-attachments/assets/16832ac0-3fb4-40f7-8825-2d74caed5ce2" />
+
+<img width="1919" height="842" alt="Screenshot 2026-03-08 123231" src="https://github.com/user-attachments/assets/734f0fb7-c9bd-498e-a449-306ffd69f00e" />
+
